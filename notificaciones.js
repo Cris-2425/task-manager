@@ -1,2 +1,2 @@
 cambio apartado 3
-conflicto
+conflicto desde notificaciones
